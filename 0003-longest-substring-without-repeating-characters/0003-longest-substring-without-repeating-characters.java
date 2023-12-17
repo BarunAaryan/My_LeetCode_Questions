@@ -7,7 +7,9 @@ class Solution {
         while(right < n){
             //does map contains the character at the index right
             if(mpp.containsKey(s.charAt(right))){
-                left= Math.max(mpp.get(s.charAt(right))+1, left);          
+                left= Math.max(mpp.get(s.charAt(right))+1, left); 
+                //mpp.get(s.charAt(right)) whatever index i have seen it last +1
+                //we are comparing with left as if it lies to the left of left we don't need to update it 
 }
             mpp.put(s.charAt(right), right);
             len= Math.max(len, right-left+1);
