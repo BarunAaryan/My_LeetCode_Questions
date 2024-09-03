@@ -7,6 +7,7 @@ Here are all the LeetCode questions I have solved with their answers.
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/BarunAaryan/My_LeetCode_Questions/tree/master/0048-rotate-image) |
 | [1046-max-consecutive-ones-iii](https://github.com/BarunAaryan/My_LeetCode_Questions/tree/master/1046-max-consecutive-ones-iii) |
 ## Binary Search
 |  |
@@ -20,4 +21,12 @@ Here are all the LeetCode questions I have solved with their answers.
 |  |
 | ------- |
 | [1046-max-consecutive-ones-iii](https://github.com/BarunAaryan/My_LeetCode_Questions/tree/master/1046-max-consecutive-ones-iii) |
+## Math
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/BarunAaryan/My_LeetCode_Questions/tree/master/0048-rotate-image) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/BarunAaryan/My_LeetCode_Questions/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
