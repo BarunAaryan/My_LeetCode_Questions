@@ -42,4 +42,5 @@ Here are all the LeetCode questions I have solved with their answers.
 |  |
 | ------- |
 | [1187-print-foobar-alternately](https://github.com/BarunAaryan/My_LeetCode_Questions/tree/master/1187-print-foobar-alternately) |
+| [1216-print-zero-even-odd](https://github.com/BarunAaryan/My_LeetCode_Questions/tree/master/1216-print-zero-even-odd) |
 <!---LeetCode Topics End-->
