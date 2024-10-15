@@ -9,6 +9,7 @@ Here are all the LeetCode questions I have solved with their answers.
 | ------- |
 | [0048-rotate-image](https://github.com/BarunAaryan/My_LeetCode_Questions/tree/master/0048-rotate-image) |
 | [1046-max-consecutive-ones-iii](https://github.com/BarunAaryan/My_LeetCode_Questions/tree/master/1046-max-consecutive-ones-iii) |
+| [1552-build-an-array-with-stack-operations](https://github.com/BarunAaryan/My_LeetCode_Questions/tree/master/1552-build-an-array-with-stack-operations) |
 ## Binary Search
 |  |
 | ------- |
@@ -44,4 +45,12 @@ Here are all the LeetCode questions I have solved with their answers.
 | [1186-building-h2o](https://github.com/BarunAaryan/My_LeetCode_Questions/tree/master/1186-building-h2o) |
 | [1187-print-foobar-alternately](https://github.com/BarunAaryan/My_LeetCode_Questions/tree/master/1187-print-foobar-alternately) |
 | [1216-print-zero-even-odd](https://github.com/BarunAaryan/My_LeetCode_Questions/tree/master/1216-print-zero-even-odd) |
+## Stack
+|  |
+| ------- |
+| [1552-build-an-array-with-stack-operations](https://github.com/BarunAaryan/My_LeetCode_Questions/tree/master/1552-build-an-array-with-stack-operations) |
+## Simulation
+|  |
+| ------- |
+| [1552-build-an-array-with-stack-operations](https://github.com/BarunAaryan/My_LeetCode_Questions/tree/master/1552-build-an-array-with-stack-operations) |
 <!---LeetCode Topics End-->
