@@ -26,6 +26,7 @@ Here are all the LeetCode questions I have solved with their answers.
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/BarunAaryan/My_LeetCode_Questions/tree/master/0002-add-two-numbers) |
+| [0013-roman-to-integer](https://github.com/BarunAaryan/My_LeetCode_Questions/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/BarunAaryan/My_LeetCode_Questions/tree/master/0048-rotate-image) |
 ## Matrix
 |  |
@@ -53,4 +54,12 @@ Here are all the LeetCode questions I have solved with their answers.
 |  |
 | ------- |
 | [1552-build-an-array-with-stack-operations](https://github.com/BarunAaryan/My_LeetCode_Questions/tree/master/1552-build-an-array-with-stack-operations) |
+## Hash Table
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/BarunAaryan/My_LeetCode_Questions/tree/master/0013-roman-to-integer) |
+## String
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/BarunAaryan/My_LeetCode_Questions/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
