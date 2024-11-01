@@ -65,5 +65,6 @@ Here are all the LeetCode questions I have solved with their answers.
 ## Database
 |  |
 | ------- |
+| [0570-managers-with-at-least-5-direct-reports](https://github.com/BarunAaryan/My_LeetCode_Questions/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [1801-average-time-of-process-per-machine](https://github.com/BarunAaryan/My_LeetCode_Questions/tree/master/1801-average-time-of-process-per-machine) |
 <!---LeetCode Topics End-->
