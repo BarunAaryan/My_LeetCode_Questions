@@ -62,4 +62,8 @@ Here are all the LeetCode questions I have solved with their answers.
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/BarunAaryan/My_LeetCode_Questions/tree/master/0013-roman-to-integer) |
+## Database
+|  |
+| ------- |
+| [1801-average-time-of-process-per-machine](https://github.com/BarunAaryan/My_LeetCode_Questions/tree/master/1801-average-time-of-process-per-machine) |
 <!---LeetCode Topics End-->
