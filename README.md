@@ -66,6 +66,7 @@ Here are all the LeetCode questions I have solved with their answers.
 |  |
 | ------- |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/BarunAaryan/My_LeetCode_Questions/tree/master/0570-managers-with-at-least-5-direct-reports) |
+| [1390-average-selling-price](https://github.com/BarunAaryan/My_LeetCode_Questions/tree/master/1390-average-selling-price) |
 | [1801-average-time-of-process-per-machine](https://github.com/BarunAaryan/My_LeetCode_Questions/tree/master/1801-average-time-of-process-per-machine) |
 | [2087-confirmation-rate](https://github.com/BarunAaryan/My_LeetCode_Questions/tree/master/2087-confirmation-rate) |
 <!---LeetCode Topics End-->
