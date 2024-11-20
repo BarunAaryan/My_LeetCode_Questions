@@ -69,4 +69,20 @@ Here are all the LeetCode questions I have solved with their answers.
 | [1390-average-selling-price](https://github.com/BarunAaryan/My_LeetCode_Questions/tree/master/1390-average-selling-price) |
 | [1801-average-time-of-process-per-machine](https://github.com/BarunAaryan/My_LeetCode_Questions/tree/master/1801-average-time-of-process-per-machine) |
 | [2087-confirmation-rate](https://github.com/BarunAaryan/My_LeetCode_Questions/tree/master/2087-confirmation-rate) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/BarunAaryan/My_LeetCode_Questions/tree/master/0100-same-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/BarunAaryan/My_LeetCode_Questions/tree/master/0100-same-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/BarunAaryan/My_LeetCode_Questions/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/BarunAaryan/My_LeetCode_Questions/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
