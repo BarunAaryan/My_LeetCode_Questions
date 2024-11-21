@@ -13,6 +13,7 @@ Here are all the LeetCode questions I have solved with their answers.
 ## Binary Search
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/BarunAaryan/My_LeetCode_Questions/tree/master/0222-count-complete-tree-nodes) |
 | [1046-max-consecutive-ones-iii](https://github.com/BarunAaryan/My_LeetCode_Questions/tree/master/1046-max-consecutive-ones-iii) |
 ## Sliding Window
 |  |
@@ -75,6 +76,7 @@ Here are all the LeetCode questions I have solved with their answers.
 | [0100-same-tree](https://github.com/BarunAaryan/My_LeetCode_Questions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/BarunAaryan/My_LeetCode_Questions/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/BarunAaryan/My_LeetCode_Questions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0222-count-complete-tree-nodes](https://github.com/BarunAaryan/My_LeetCode_Questions/tree/master/0222-count-complete-tree-nodes) |
 | [0543-diameter-of-binary-tree](https://github.com/BarunAaryan/My_LeetCode_Questions/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
@@ -95,5 +97,10 @@ Here are all the LeetCode questions I have solved with their answers.
 | [0100-same-tree](https://github.com/BarunAaryan/My_LeetCode_Questions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/BarunAaryan/My_LeetCode_Questions/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/BarunAaryan/My_LeetCode_Questions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0222-count-complete-tree-nodes](https://github.com/BarunAaryan/My_LeetCode_Questions/tree/master/0222-count-complete-tree-nodes) |
 | [0543-diameter-of-binary-tree](https://github.com/BarunAaryan/My_LeetCode_Questions/tree/master/0543-diameter-of-binary-tree) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/BarunAaryan/My_LeetCode_Questions/tree/master/0222-count-complete-tree-nodes) |
 <!---LeetCode Topics End-->
