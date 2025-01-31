@@ -8,6 +8,7 @@ Here are all the LeetCode questions I have solved with their answers.
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/BarunAaryan/My_LeetCode_Questions/tree/master/0048-rotate-image) |
+| [1019-squares-of-a-sorted-array](https://github.com/BarunAaryan/My_LeetCode_Questions/tree/master/1019-squares-of-a-sorted-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/BarunAaryan/My_LeetCode_Questions/tree/master/1046-max-consecutive-ones-iii) |
 | [1552-build-an-array-with-stack-operations](https://github.com/BarunAaryan/My_LeetCode_Questions/tree/master/1552-build-an-array-with-stack-operations) |
 ## Binary Search
@@ -112,4 +113,12 @@ Here are all the LeetCode questions I have solved with their answers.
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/BarunAaryan/My_LeetCode_Questions/tree/master/0098-validate-binary-search-tree) |
+## Two Pointers
+|  |
+| ------- |
+| [1019-squares-of-a-sorted-array](https://github.com/BarunAaryan/My_LeetCode_Questions/tree/master/1019-squares-of-a-sorted-array) |
+## Sorting
+|  |
+| ------- |
+| [1019-squares-of-a-sorted-array](https://github.com/BarunAaryan/My_LeetCode_Questions/tree/master/1019-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->
