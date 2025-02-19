@@ -65,6 +65,7 @@ Here are all the LeetCode questions I have solved with their answers.
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/BarunAaryan/My_LeetCode_Questions/tree/master/0013-roman-to-integer) |
+| [0812-rotate-string](https://github.com/BarunAaryan/My_LeetCode_Questions/tree/master/0812-rotate-string) |
 ## Database
 |  |
 | ------- |
@@ -124,4 +125,8 @@ Here are all the LeetCode questions I have solved with their answers.
 | ------- |
 | [0075-sort-colors](https://github.com/BarunAaryan/My_LeetCode_Questions/tree/master/0075-sort-colors) |
 | [1019-squares-of-a-sorted-array](https://github.com/BarunAaryan/My_LeetCode_Questions/tree/master/1019-squares-of-a-sorted-array) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/BarunAaryan/My_LeetCode_Questions/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
