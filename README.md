@@ -64,6 +64,7 @@ Here are all the LeetCode questions I have solved with their answers.
 ## String
 |  |
 | ------- |
+| [0008-string-to-integer-atoi](https://github.com/BarunAaryan/My_LeetCode_Questions/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/BarunAaryan/My_LeetCode_Questions/tree/master/0013-roman-to-integer) |
 | [0812-rotate-string](https://github.com/BarunAaryan/My_LeetCode_Questions/tree/master/0812-rotate-string) |
 ## Database
