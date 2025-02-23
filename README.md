@@ -64,6 +64,7 @@ Here are all the LeetCode questions I have solved with their answers.
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/BarunAaryan/My_LeetCode_Questions/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/BarunAaryan/My_LeetCode_Questions/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/BarunAaryan/My_LeetCode_Questions/tree/master/0013-roman-to-integer) |
 | [0812-rotate-string](https://github.com/BarunAaryan/My_LeetCode_Questions/tree/master/0812-rotate-string) |
@@ -119,6 +120,7 @@ Here are all the LeetCode questions I have solved with their answers.
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/BarunAaryan/My_LeetCode_Questions/tree/master/0005-longest-palindromic-substring) |
 | [0075-sort-colors](https://github.com/BarunAaryan/My_LeetCode_Questions/tree/master/0075-sort-colors) |
 | [1019-squares-of-a-sorted-array](https://github.com/BarunAaryan/My_LeetCode_Questions/tree/master/1019-squares-of-a-sorted-array) |
 ## Sorting
@@ -130,4 +132,8 @@ Here are all the LeetCode questions I have solved with their answers.
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/BarunAaryan/My_LeetCode_Questions/tree/master/0812-rotate-string) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/BarunAaryan/My_LeetCode_Questions/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
