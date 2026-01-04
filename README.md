@@ -11,6 +11,7 @@ Here are all the LeetCode questions I have solved with their answers.
 | [0075-sort-colors](https://github.com/BarunAaryan/My_LeetCode_Questions/tree/master/0075-sort-colors) |
 | [1019-squares-of-a-sorted-array](https://github.com/BarunAaryan/My_LeetCode_Questions/tree/master/1019-squares-of-a-sorted-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/BarunAaryan/My_LeetCode_Questions/tree/master/1046-max-consecutive-ones-iii) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/BarunAaryan/My_LeetCode_Questions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1552-build-an-array-with-stack-operations](https://github.com/BarunAaryan/My_LeetCode_Questions/tree/master/1552-build-an-array-with-stack-operations) |
 ## Binary Search
 |  |
@@ -21,10 +22,12 @@ Here are all the LeetCode questions I have solved with their answers.
 |  |
 | ------- |
 | [1046-max-consecutive-ones-iii](https://github.com/BarunAaryan/My_LeetCode_Questions/tree/master/1046-max-consecutive-ones-iii) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/BarunAaryan/My_LeetCode_Questions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Prefix Sum
 |  |
 | ------- |
 | [1046-max-consecutive-ones-iii](https://github.com/BarunAaryan/My_LeetCode_Questions/tree/master/1046-max-consecutive-ones-iii) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/BarunAaryan/My_LeetCode_Questions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Math
 |  |
 | ------- |
