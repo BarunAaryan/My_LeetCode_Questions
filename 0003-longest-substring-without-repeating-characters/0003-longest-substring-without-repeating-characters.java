@@ -1,20 +1,25 @@
 class Solution {
     public int lengthOfLongestSubstring(String s) {
-        HashMap<Character, Integer> mpp = new HashMap<Character, Integer>();
-        int left =0, right =0;
         int n = s.length();
-        int len=0;
-        while(right < n){
-            //does map contains the character at the index right
-            if(mpp.containsKey(s.charAt(right))){
-                left= Math.max(mpp.get(s.charAt(right))+1, left); 
-                //mpp.get(s.charAt(right)) whatever index i have seen it last +1
-                //we are comparing with left as if it lies to the left of left we don't need to update it 
-}
-            mpp.put(s.charAt(right), right);
-            len= Math.max(len, right-left+1);
-            right++;
+        //All Ascii chars
+        int HashLen = 256;
+        //hashtable to store last occurence of each char
+        int[] hash = new int[HashLen];
+        //Initialize the table with -1
+        Arrays.fill(hash,-1);
+        int l=0, r=0, maxLen=0;
+        while(r<n){
+            //If current character s.charAt(r) is already in the substring
+            if(hash[s.charAt(r)] >= l){
+                //Move left pointer to the right of the last occurence of s.charAt(r)
+            l= Math.max(hash[s.charAt(r)]+1, l);
+            }
+            int len = r-l+1;
+            maxLen= Math.max(len, maxLen);
+            //store the index of current chatacter in the hash table
+            hash[s.charAt(r)] =r;
+            r++;
         }
-        return len;
+        return maxLen;
     }
 }
