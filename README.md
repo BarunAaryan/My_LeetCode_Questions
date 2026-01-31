@@ -9,6 +9,7 @@ Here are all the LeetCode questions I have solved with their answers.
 | ------- |
 | [0048-rotate-image](https://github.com/BarunAaryan/My_LeetCode_Questions/tree/master/0048-rotate-image) |
 | [0075-sort-colors](https://github.com/BarunAaryan/My_LeetCode_Questions/tree/master/0075-sort-colors) |
+| [0904-fruit-into-baskets](https://github.com/BarunAaryan/My_LeetCode_Questions/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/BarunAaryan/My_LeetCode_Questions/tree/master/1004-max-consecutive-ones-iii) |
 | [1019-squares-of-a-sorted-array](https://github.com/BarunAaryan/My_LeetCode_Questions/tree/master/1019-squares-of-a-sorted-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/BarunAaryan/My_LeetCode_Questions/tree/master/1046-max-consecutive-ones-iii) |
@@ -24,6 +25,7 @@ Here are all the LeetCode questions I have solved with their answers.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/BarunAaryan/My_LeetCode_Questions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0904-fruit-into-baskets](https://github.com/BarunAaryan/My_LeetCode_Questions/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/BarunAaryan/My_LeetCode_Questions/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-max-consecutive-ones-iii](https://github.com/BarunAaryan/My_LeetCode_Questions/tree/master/1046-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/BarunAaryan/My_LeetCode_Questions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -70,6 +72,7 @@ Here are all the LeetCode questions I have solved with their answers.
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/BarunAaryan/My_LeetCode_Questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/BarunAaryan/My_LeetCode_Questions/tree/master/0013-roman-to-integer) |
+| [0904-fruit-into-baskets](https://github.com/BarunAaryan/My_LeetCode_Questions/tree/master/0904-fruit-into-baskets) |
 ## String
 |  |
 | ------- |
