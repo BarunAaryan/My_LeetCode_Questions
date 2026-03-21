@@ -9,6 +9,7 @@ Here are all the LeetCode questions I have solved with their answers.
 | ------- |
 | [0048-rotate-image](https://github.com/BarunAaryan/My_LeetCode_Questions/tree/master/0048-rotate-image) |
 | [0075-sort-colors](https://github.com/BarunAaryan/My_LeetCode_Questions/tree/master/0075-sort-colors) |
+| [0704-binary-search](https://github.com/BarunAaryan/My_LeetCode_Questions/tree/master/0704-binary-search) |
 | [0904-fruit-into-baskets](https://github.com/BarunAaryan/My_LeetCode_Questions/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/BarunAaryan/My_LeetCode_Questions/tree/master/1004-max-consecutive-ones-iii) |
 | [1019-squares-of-a-sorted-array](https://github.com/BarunAaryan/My_LeetCode_Questions/tree/master/1019-squares-of-a-sorted-array) |
@@ -19,6 +20,7 @@ Here are all the LeetCode questions I have solved with their answers.
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/BarunAaryan/My_LeetCode_Questions/tree/master/0222-count-complete-tree-nodes) |
+| [0704-binary-search](https://github.com/BarunAaryan/My_LeetCode_Questions/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/BarunAaryan/My_LeetCode_Questions/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-max-consecutive-ones-iii](https://github.com/BarunAaryan/My_LeetCode_Questions/tree/master/1046-max-consecutive-ones-iii) |
 ## Sliding Window
