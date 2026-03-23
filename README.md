@@ -10,6 +10,7 @@ Here are all the LeetCode questions I have solved with their answers.
 | [0048-rotate-image](https://github.com/BarunAaryan/My_LeetCode_Questions/tree/master/0048-rotate-image) |
 | [0075-sort-colors](https://github.com/BarunAaryan/My_LeetCode_Questions/tree/master/0075-sort-colors) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/BarunAaryan/My_LeetCode_Questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/BarunAaryan/My_LeetCode_Questions/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/BarunAaryan/My_LeetCode_Questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/BarunAaryan/My_LeetCode_Questions/tree/master/0704-binary-search) |
 | [0904-fruit-into-baskets](https://github.com/BarunAaryan/My_LeetCode_Questions/tree/master/0904-fruit-into-baskets) |
@@ -22,6 +23,7 @@ Here are all the LeetCode questions I have solved with their answers.
 |  |
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/BarunAaryan/My_LeetCode_Questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/BarunAaryan/My_LeetCode_Questions/tree/master/0162-find-peak-element) |
 | [0222-count-complete-tree-nodes](https://github.com/BarunAaryan/My_LeetCode_Questions/tree/master/0222-count-complete-tree-nodes) |
 | [0540-single-element-in-a-sorted-array](https://github.com/BarunAaryan/My_LeetCode_Questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/BarunAaryan/My_LeetCode_Questions/tree/master/0704-binary-search) |
