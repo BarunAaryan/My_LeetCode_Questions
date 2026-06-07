@@ -13,6 +13,7 @@ Here are all the LeetCode questions I have solved with their answers.
 | [0075-sort-colors](https://github.com/BarunAaryan/My_LeetCode_Questions/tree/master/0075-sort-colors) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/BarunAaryan/My_LeetCode_Questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/BarunAaryan/My_LeetCode_Questions/tree/master/0162-find-peak-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/BarunAaryan/My_LeetCode_Questions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/BarunAaryan/My_LeetCode_Questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/BarunAaryan/My_LeetCode_Questions/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/BarunAaryan/My_LeetCode_Questions/tree/main/0875-koko-eating-bananas/) | Medium |
@@ -35,6 +36,7 @@ Here are all the LeetCode questions I have solved with their answers.
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/BarunAaryan/My_LeetCode_Questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/BarunAaryan/My_LeetCode_Questions/tree/master/0162-find-peak-element) |
 | [0222-count-complete-tree-nodes](https://github.com/BarunAaryan/My_LeetCode_Questions/tree/master/0222-count-complete-tree-nodes) |
+| [0240-search-a-2d-matrix-ii](https://github.com/BarunAaryan/My_LeetCode_Questions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/BarunAaryan/My_LeetCode_Questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/BarunAaryan/My_LeetCode_Questions/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/BarunAaryan/My_LeetCode_Questions/tree/main/0875-koko-eating-bananas/) | Medium |
@@ -70,6 +72,7 @@ Here are all the LeetCode questions I have solved with their answers.
 | ------- |
 | [0048-rotate-image](https://github.com/BarunAaryan/My_LeetCode_Questions/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/BarunAaryan/My_LeetCode_Questions/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0240-search-a-2d-matrix-ii](https://github.com/BarunAaryan/My_LeetCode_Questions/tree/master/0240-search-a-2d-matrix-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -174,4 +177,8 @@ Here are all the LeetCode questions I have solved with their answers.
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/BarunAaryan/My_LeetCode_Questions/tree/master/0005-longest-palindromic-substring) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/BarunAaryan/My_LeetCode_Questions/tree/master/0240-search-a-2d-matrix-ii) |
 <!---LeetCode Topics End-->
