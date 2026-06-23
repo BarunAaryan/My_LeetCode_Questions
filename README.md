@@ -77,6 +77,7 @@ Here are all the LeetCode questions I have solved with their answers.
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/BarunAaryan/My_LeetCode_Questions/tree/master/0002-add-two-numbers) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/BarunAaryan/My_LeetCode_Questions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0328-odd-even-linked-list](https://github.com/BarunAaryan/My_LeetCode_Questions/tree/main/0328-odd-even-linked-list/) | Medium |
 | [0707-design-linked-list](https://github.com/BarunAaryan/My_LeetCode_Questions/tree/main/0707-design-linked-list/) | Medium |
 ## Recursion
@@ -164,6 +165,7 @@ Here are all the LeetCode questions I have solved with their answers.
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/BarunAaryan/My_LeetCode_Questions/tree/master/0005-longest-palindromic-substring) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/BarunAaryan/My_LeetCode_Questions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0075-sort-colors](https://github.com/BarunAaryan/My_LeetCode_Questions/tree/master/0075-sort-colors) |
 | [1019-squares-of-a-sorted-array](https://github.com/BarunAaryan/My_LeetCode_Questions/tree/master/1019-squares-of-a-sorted-array) |
 ## Sorting
