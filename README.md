@@ -77,6 +77,7 @@ Here are all the LeetCode questions I have solved with their answers.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/BarunAaryan/My_LeetCode_Questions/tree/master/0002-add-two-numbers) |
+| [0328-odd-even-linked-list](https://github.com/BarunAaryan/My_LeetCode_Questions/tree/main/0328-odd-even-linked-list/) | Medium |
 | [0707-design-linked-list](https://github.com/BarunAaryan/My_LeetCode_Questions/tree/main/0707-design-linked-list/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
