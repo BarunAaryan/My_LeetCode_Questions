@@ -81,6 +81,7 @@ Here are all the LeetCode questions I have solved with their answers.
 | [0206-reverse-linked-list](https://github.com/BarunAaryan/My_LeetCode_Questions/tree/main/0206-reverse-linked-list/) | Easy |
 | [0328-odd-even-linked-list](https://github.com/BarunAaryan/My_LeetCode_Questions/tree/main/0328-odd-even-linked-list/) | Medium |
 | [0707-design-linked-list](https://github.com/BarunAaryan/My_LeetCode_Questions/tree/main/0707-design-linked-list/) | Medium |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/BarunAaryan/My_LeetCode_Questions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -170,6 +171,7 @@ Here are all the LeetCode questions I have solved with their answers.
 | [0019-remove-nth-node-from-end-of-list](https://github.com/BarunAaryan/My_LeetCode_Questions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0075-sort-colors](https://github.com/BarunAaryan/My_LeetCode_Questions/tree/master/0075-sort-colors) |
 | [1019-squares-of-a-sorted-array](https://github.com/BarunAaryan/My_LeetCode_Questions/tree/master/1019-squares-of-a-sorted-array) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/BarunAaryan/My_LeetCode_Questions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Sorting
 |  |
 | ------- |
