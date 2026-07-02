@@ -11,6 +11,7 @@ Here are all the LeetCode questions I have solved with their answers.
 | [0048-rotate-image](https://github.com/BarunAaryan/My_LeetCode_Questions/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/BarunAaryan/My_LeetCode_Questions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/BarunAaryan/My_LeetCode_Questions/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/BarunAaryan/My_LeetCode_Questions/tree/master/0078-subsets) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/BarunAaryan/My_LeetCode_Questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/BarunAaryan/My_LeetCode_Questions/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/BarunAaryan/My_LeetCode_Questions/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
@@ -161,6 +162,7 @@ Here are all the LeetCode questions I have solved with their answers.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/BarunAaryan/My_LeetCode_Questions/tree/master/0078-subsets) |
 | [0222-count-complete-tree-nodes](https://github.com/BarunAaryan/My_LeetCode_Questions/tree/master/0222-count-complete-tree-nodes) |
 ## Binary Search Tree
 |  |
@@ -196,4 +198,8 @@ Here are all the LeetCode questions I have solved with their answers.
 |  |
 | ------- |
 | [0707-design-linked-list](https://github.com/BarunAaryan/My_LeetCode_Questions/tree/main/0707-design-linked-list/) | Medium |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/BarunAaryan/My_LeetCode_Questions/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
