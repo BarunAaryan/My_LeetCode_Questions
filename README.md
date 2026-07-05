@@ -7,6 +7,7 @@ Here are all the LeetCode questions I have solved with their answers.
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/BarunAaryan/My_LeetCode_Questions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0033-search-in-rotated-sorted-array](https://github.com/BarunAaryan/My_LeetCode_Questions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0048-rotate-image](https://github.com/BarunAaryan/My_LeetCode_Questions/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/BarunAaryan/My_LeetCode_Questions/tree/main/0074-search-a-2d-matrix/) | Medium |
@@ -33,6 +34,7 @@ Here are all the LeetCode questions I have solved with their answers.
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/BarunAaryan/My_LeetCode_Questions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0033-search-in-rotated-sorted-array](https://github.com/BarunAaryan/My_LeetCode_Questions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0069-sqrtx](https://github.com/BarunAaryan/My_LeetCode_Questions/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/BarunAaryan/My_LeetCode_Questions/tree/main/0074-search-a-2d-matrix/) | Medium |
@@ -199,6 +201,7 @@ Here are all the LeetCode questions I have solved with their answers.
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/BarunAaryan/My_LeetCode_Questions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0240-search-a-2d-matrix-ii](https://github.com/BarunAaryan/My_LeetCode_Questions/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 ## Design
 | Problem Name | Difficulty |
