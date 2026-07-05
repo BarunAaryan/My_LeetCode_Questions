@@ -12,6 +12,7 @@ Here are all the LeetCode questions I have solved with their answers.
 | [0074-search-a-2d-matrix](https://github.com/BarunAaryan/My_LeetCode_Questions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/BarunAaryan/My_LeetCode_Questions/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/BarunAaryan/My_LeetCode_Questions/tree/master/0078-subsets) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/BarunAaryan/My_LeetCode_Questions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/BarunAaryan/My_LeetCode_Questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/BarunAaryan/My_LeetCode_Questions/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/BarunAaryan/My_LeetCode_Questions/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
@@ -34,6 +35,7 @@ Here are all the LeetCode questions I have solved with their answers.
 | [0033-search-in-rotated-sorted-array](https://github.com/BarunAaryan/My_LeetCode_Questions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0069-sqrtx](https://github.com/BarunAaryan/My_LeetCode_Questions/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/BarunAaryan/My_LeetCode_Questions/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/BarunAaryan/My_LeetCode_Questions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/BarunAaryan/My_LeetCode_Questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/BarunAaryan/My_LeetCode_Questions/tree/master/0162-find-peak-element) |
 | [0222-count-complete-tree-nodes](https://github.com/BarunAaryan/My_LeetCode_Questions/tree/master/0222-count-complete-tree-nodes) |
