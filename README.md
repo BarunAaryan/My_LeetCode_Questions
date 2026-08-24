@@ -75,6 +75,7 @@ Here are all the LeetCode questions I have solved with their answers.
 | [0013-roman-to-integer](https://github.com/BarunAaryan/My_LeetCode_Questions/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/BarunAaryan/My_LeetCode_Questions/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/BarunAaryan/My_LeetCode_Questions/tree/master/0069-sqrtx) |
+| [0779-k-th-symbol-in-grammar](https://github.com/BarunAaryan/My_LeetCode_Questions/tree/main/0779-k-th-symbol-in-grammar/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -96,6 +97,7 @@ Here are all the LeetCode questions I have solved with their answers.
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/BarunAaryan/My_LeetCode_Questions/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/BarunAaryan/My_LeetCode_Questions/tree/main/0206-reverse-linked-list/) | Easy |
+| [0779-k-th-symbol-in-grammar](https://github.com/BarunAaryan/My_LeetCode_Questions/tree/main/0779-k-th-symbol-in-grammar/) | Medium |
 ## Concurrency
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -171,6 +173,7 @@ Here are all the LeetCode questions I have solved with their answers.
 | ------- | ------- |
 | [0078-subsets](https://github.com/BarunAaryan/My_LeetCode_Questions/tree/master/0078-subsets) |
 | [0222-count-complete-tree-nodes](https://github.com/BarunAaryan/My_LeetCode_Questions/tree/master/0222-count-complete-tree-nodes) |
+| [0779-k-th-symbol-in-grammar](https://github.com/BarunAaryan/My_LeetCode_Questions/tree/main/0779-k-th-symbol-in-grammar/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
