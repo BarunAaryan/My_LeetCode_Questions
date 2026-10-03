@@ -18,6 +18,7 @@ Here are all the LeetCode questions I have solved with their answers.
 | [0162-find-peak-element](https://github.com/BarunAaryan/My_LeetCode_Questions/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/BarunAaryan/My_LeetCode_Questions/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/BarunAaryan/My_LeetCode_Questions/tree/main/0410-split-array-largest-sum/) | Hard |
+| [0455-assign-cookies](https://github.com/BarunAaryan/My_LeetCode_Questions/tree/main/0455-assign-cookies/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/BarunAaryan/My_LeetCode_Questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/BarunAaryan/My_LeetCode_Questions/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/BarunAaryan/My_LeetCode_Questions/tree/main/0875-koko-eating-bananas/) | Medium |
@@ -185,12 +186,14 @@ Here are all the LeetCode questions I have solved with their answers.
 | [0019-remove-nth-node-from-end-of-list](https://github.com/BarunAaryan/My_LeetCode_Questions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0075-sort-colors](https://github.com/BarunAaryan/My_LeetCode_Questions/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/BarunAaryan/My_LeetCode_Questions/tree/master/0141-linked-list-cycle) |
+| [0455-assign-cookies](https://github.com/BarunAaryan/My_LeetCode_Questions/tree/main/0455-assign-cookies/) | Easy |
 | [1019-squares-of-a-sorted-array](https://github.com/BarunAaryan/My_LeetCode_Questions/tree/master/1019-squares-of-a-sorted-array) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/BarunAaryan/My_LeetCode_Questions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/BarunAaryan/My_LeetCode_Questions/tree/master/0075-sort-colors) |
+| [0455-assign-cookies](https://github.com/BarunAaryan/My_LeetCode_Questions/tree/main/0455-assign-cookies/) | Easy |
 | [1019-squares-of-a-sorted-array](https://github.com/BarunAaryan/My_LeetCode_Questions/tree/master/1019-squares-of-a-sorted-array) |
 ## String Matching
 | Problem Name | Difficulty |
@@ -218,4 +221,9 @@ Here are all the LeetCode questions I have solved with their answers.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0410-split-array-largest-sum](https://github.com/BarunAaryan/My_LeetCode_Questions/tree/main/0410-split-array-largest-sum/) | Hard |
+| [0455-assign-cookies](https://github.com/BarunAaryan/My_LeetCode_Questions/tree/main/0455-assign-cookies/) | Easy |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0455-assign-cookies](https://github.com/BarunAaryan/My_LeetCode_Questions/tree/main/0455-assign-cookies/) | Easy |
 <!---LeetCode Topics End-->
